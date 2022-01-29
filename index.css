@@ -58,5 +58,53 @@
     display: inline-table;
     justify-content: space-evenly;
 }
+.page{
+    display: flex;
+    height: 45rem;
+    flex-direction: row;
+    position: relative;
+    margin-top: auto;
+    justify-content: space-around;
+   background-color:solid white; 
+   /* justify-content: space-evenly; */
+}
+.far-left{
+    height: 10%;
+    width: 20%;
+    border: 1px solid white;
+    text-align: center;
 
+}
+.far-middle{
+    height: 10%;
+    width: 20%;
+    border: 1px solid white;
+    /* text-shadow: thistle; */
+    text-align: center;
+
+}    
+.far-right{
+    height: 10%;
+    width: 20%;
+    border: 1px solid white;
+    text-align: center;
+
+}
+.pauline{
+    background-color: whitesmoke;
+}
+.ellam{
+    text-align: center;
+}
+.item{
+    display: flex;
+    height: 45rem;
+    flex-direction: row;
+    position: relative;
+    margin-top: auto;
+}
+.item1{
     
+}
+
+
