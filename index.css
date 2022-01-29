@@ -170,5 +170,12 @@ img{
 }
 .world{
     border: 1px solid black;
-    background-color: darkblue;
+    padding-bottom: 300px;
+    background-color: #252B42;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.Africa{
+    padding-left: 150px;
 }
