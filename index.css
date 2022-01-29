@@ -143,4 +143,17 @@ img{
     width: 50%;
     
 }
+.subscribe{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid white;
+    width: 50%;
+    background-color:rgb(128, 0, 128);
+}
+.script{
+    margin-top: 10px;
+    height: 40%;
+    width: 40%;
+}
 
