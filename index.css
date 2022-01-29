@@ -1,0 +1,62 @@
+.background{
+    background-color:#23A6F0;
+    background-image: url(Assets/hero-cover.3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-top: 2px;
+    
+}
+.doll{
+    text-align: center;
+    justify-content: space-around;
+}
+.Box{
+    display: flex;
+    height: 45rem;
+    flex-direction: row;
+    position: relative;
+    margin-top: auto;
+    justify-content: space-around;
+    margin-bottom: 25%;
+    /* background-color: #edf5f1; */
+    align-items: center;
+    float: inline-end;
+}
+.top{
+    /* height: 5%; */
+    padding-top: 1%;
+    align-items: center;
+    border: 1px solid white;
+    background-color: whitesmoke;
+    text-align: center;
+    width: 15%;
+    /* border-radius: 8px; */
+    display: inline-table;
+    justify-content: space-evenly;
+    
+}
+.middle{
+    height: 8%;
+    padding-top: 1%;
+    align-items: center;
+    border: 1px solid white;
+    background-color:whitesmoke ;
+    text-align: center;
+    width: 15%;
+    display: inline-table;
+    justify-content: space-evenly;
+}
+.bottom{
+    height: 8%;
+    padding-top: 1%;
+    align-items: center;
+    border: 1px solid white;
+    background-color:#23A6F0;
+    text-align: center;
+    width: 15%;
+    display: inline-table;
+    justify-content: space-evenly;
+}
+
+    
