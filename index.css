@@ -135,7 +135,12 @@ img{
     display: flex;
     flex-direction: row;
     /* width: 20%; */
-    justify-content: space-evenly;
-}
+    justify-content: space-between;
 
+}
+.J .K .L .M .N .O{
+    height: 40%;
+    width: 50%;
+    
+}
 
