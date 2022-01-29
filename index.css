@@ -168,3 +168,7 @@ img{
     margin-left: 600px;
     
 }
+.world{
+    border: 1px solid black;
+    background-color: darkblue;
+}
