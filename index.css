@@ -195,3 +195,17 @@ img{
     width: 100%;
     background-color:skyblue;
 }
+.contact{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    justify-content: space-around;
+}
+#num{
+    height: 60%;
+    width: 10%;
+    margin-top: 30px;
+    background-color: skyblue;
+}
+    
+
