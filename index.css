@@ -183,3 +183,15 @@ img{
     display: flex;
     flex-direction: row;
 }
+.far{
+    /* border: 1px solid black; */
+    border-collapse: collapse ;
+}
+.rose{
+    margin-top: 30px;
+    /* width: 100%; */
+}
+#book{
+    width: 100%;
+    background-color:skyblue;
+}
