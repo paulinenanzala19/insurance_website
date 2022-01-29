@@ -179,3 +179,7 @@ img{
 .Africa{
     padding-left: 150px;
 }
+.picture{
+    display: flex;
+    flex-direction: row;
+}
