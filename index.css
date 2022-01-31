@@ -22,6 +22,10 @@
     padding-top: 20px;
     justify-content: space-around;
     margin-top: 5px;
+    /* color: white; */
+}
+.navbar a{
+    color: white;
 }
 .row{
     display:flex;
@@ -56,8 +60,8 @@
     margin-left: 100px;
     padding-left: 50px;
     padding-right: 50px;
-    text-align: stretch;
     justify-content: space-evenly;
+    color: white;
     /* padding-left: 10px;
      */
 }
