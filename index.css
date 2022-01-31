@@ -153,7 +153,7 @@ margin-left: -200px;
 .fa-star checked{
     color: orange;
 }
-.fa {
+.fa{
     color: green;
     font-size: 20px;
 }
@@ -395,6 +395,7 @@ text-align: center;
     border-radius: 10px;
     text-align: center;
     padding-bottom: 20px;
+    padding-left: 2%;
     width: 16%;
     /* height: 100%; */
     background-color: white;
@@ -407,16 +408,24 @@ text-align: center;
 .free, p{
     text-align: start;
 }
+.free h3{
+    color: #23A6F0;
+}
 .premium{
     border: 2px solid lightskyblue;
     border-radius: 10px;
     text-align: center;
+    padding-left: 1%;
     width: 16%;
     background-color: white;
+}
+.premium h3{
+    color: #23A6F0;
 }
 .standard{
     border: 2px solid lightskyblue;
     text-align: center;
+    padding-left: 1%;
     width: 16%;
     background-color: #252B42;
     margin-top: -25px;
@@ -428,12 +437,28 @@ text-align: center;
 .standard h2, p{
     color: white;
 }
+.standard h3{
+    color: #23A6F0;
+
+}
 #phone{
     width: 80%;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-style: none;
     background-color: #23A6F0;
+    color: white;
 }
+
+.figure{
+    font-size: 20px;
+    
+    
+}
+.figure h3{
+    color: #23A6F0;
+}
+
 .world{
     /* border: 1px solid black; */
     padding-top: 100px;
@@ -482,7 +507,9 @@ text-align: center;
     width: 35%;
     padding-top: 5px;
     padding-bottom: 5px;
+    border-style: none;
     background-color:#23A6F0;
+    color: white;
 }
 .contact{
     display: flex;
@@ -499,8 +526,10 @@ text-align: center;
     margin-top: 30px;
     padding-bottom: 10px;
     margin-bottom: -50px;
+    border-style: none;
 
     background-color: #23A6F0;
+    color: white;
 }
   .column{
       display: flex;
@@ -534,6 +563,7 @@ text-align: center;
 .A{
     /* border: 1px solid black; */
     margin-right: 40px;
+    
 }
 .footer{
     display: flex;
@@ -544,9 +574,9 @@ text-align: center;
 .footer p{
     color: gray;
 }
-@media only screen and (max-width: 720px) {
 
+@media only screen and (max-width: 720px) 
+.navbar{
+    display:flex;
 }
 
-    
-}
